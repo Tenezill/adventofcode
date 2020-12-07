@@ -7,7 +7,7 @@ public class aoc_d2
     {
         int validPasswords = 0;
 
-        string[] lines = System.IO.File.ReadAllLines(@"C:\temp\aoc.txt");
+        string[] lines = System.IO.File.ReadAllLines(Environment.CurrentDirectory + "/inputs/day2.txt");
         foreach (string line in lines)
         {
             string[] passworddata = line.Split(" ");
