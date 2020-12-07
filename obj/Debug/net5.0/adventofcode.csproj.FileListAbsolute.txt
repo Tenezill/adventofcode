@@ -1,0 +1,16 @@
+E:\adventofcode\bin\Debug\net5.0\adventofcode.exe
+E:\adventofcode\bin\Debug\net5.0\adventofcode.deps.json
+E:\adventofcode\bin\Debug\net5.0\adventofcode.runtimeconfig.json
+E:\adventofcode\bin\Debug\net5.0\adventofcode.runtimeconfig.dev.json
+E:\adventofcode\bin\Debug\net5.0\adventofcode.dll
+E:\adventofcode\bin\Debug\net5.0\ref\adventofcode.dll
+E:\adventofcode\bin\Debug\net5.0\adventofcode.pdb
+E:\adventofcode\obj\Debug\net5.0\adventofcode.csprojAssemblyReference.cache
+E:\adventofcode\obj\Debug\net5.0\adventofcode.GeneratedMSBuildEditorConfig.editorconfig
+E:\adventofcode\obj\Debug\net5.0\adventofcode.AssemblyInfoInputs.cache
+E:\adventofcode\obj\Debug\net5.0\adventofcode.AssemblyInfo.cs
+E:\adventofcode\obj\Debug\net5.0\adventofcode.csproj.CoreCompileInputs.cache
+E:\adventofcode\obj\Debug\net5.0\adventofcode.dll
+E:\adventofcode\obj\Debug\net5.0\ref\adventofcode.dll
+E:\adventofcode\obj\Debug\net5.0\adventofcode.pdb
+E:\adventofcode\obj\Debug\net5.0\adventofcode.genruntimeconfig.cache
